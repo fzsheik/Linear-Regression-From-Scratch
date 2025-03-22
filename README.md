@@ -3,6 +3,7 @@
 The goal of this project was to gain a low-level understanding of how linear regression works without relying on machine learning libraries.
 
 I implemented a simple linear regression algorithm using gradient descent to find the line of best fit. The only external libraries used were for loading and visualizing the dataset.
+
 🔧 How It Works
 
 Gradient descent is a trial-and-error optimization algorithm that adjusts the parameters of the line (slope m and intercept b) to reduce prediction error.
